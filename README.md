@@ -1,0 +1,1 @@
+A system in which multiple RAG agents discuss a given topic. The documents from which the agents extract information are processed and stored in a vector database. The goal is to simulate a debate between the agents who ask questions and others who answer the question, and the flow and summarization of the conversation is regulated by one agent/moderator.
