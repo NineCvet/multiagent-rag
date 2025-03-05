@@ -3,4 +3,5 @@ volumes
 lib64
 .env
 .idea
+tmp
 .cache
